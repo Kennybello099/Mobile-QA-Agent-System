@@ -21,8 +21,7 @@ The primary objective of this project is to:
 - Transparency and fairness in QA outputs
 
   
-## 📂 Project Structure
-- `main.py` — Entry point for running QA queries  
+## 📂 Project Structure 
 - `agents.py` — Agent orchestration and model selection logic  
 - `mobile_qa.py` — Android emulator QA integration  
 - `mobileagent.py` — Mobile agent logic for screen capture and interaction  
