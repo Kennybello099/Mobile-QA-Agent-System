@@ -21,14 +21,12 @@ The primary objective of this project is to:
 - Transparency and fairness in QA outputs
 
   
-## 📂 Project Structure
-- `main.py` — Entry point for running QA queries  
+## 📂 Project Structure 
 - `agents.py` — Agent orchestration and model selection logic  
 - `mobile_qa.py` — Android emulator QA integration  
 - `mobileagent.py` — Mobile agent logic for screen capture and interaction  
 - `adb_helper.py` — ADB automation utilities for emulator control  
 - `gemini_helper.py` — Gemini API wrapper and quota-aware model selection  
-- `requirements.txt` — Python dependencies  
 - `.env` — Environment variables (e.g., Gemini API key)  
 - `.gitignore` — Git exclusions  
 - `current_screen.png` — Screenshot used for image-based QA  
